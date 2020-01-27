@@ -1,0 +1,13 @@
+C:\Users\dinor\source\repos\clrmdapp\bin\Debug\clrmdapp.exe.config
+C:\Users\dinor\source\repos\clrmdapp\bin\Debug\clrmdapp.exe
+C:\Users\dinor\source\repos\clrmdapp\bin\Debug\clrmdapp.pdb
+C:\Users\dinor\source\repos\clrmdapp\bin\Debug\Microsoft.Diagnostics.Runtime.dll
+C:\Users\dinor\source\repos\clrmdapp\bin\Debug\Microsoft.Diagnostics.Runtime.pdb
+C:\Users\dinor\source\repos\clrmdapp\bin\Debug\Microsoft.Diagnostics.Runtime.xml
+C:\Users\dinor\source\repos\clrmdapp\obj\Debug\clrmdapp.csprojAssemblyReference.cache
+C:\Users\dinor\source\repos\clrmdapp\obj\Debug\clrmdapp.Form1.resources
+C:\Users\dinor\source\repos\clrmdapp\obj\Debug\clrmdapp.Properties.Resources.resources
+C:\Users\dinor\source\repos\clrmdapp\obj\Debug\clrmdapp.csproj.GenerateResource.cache
+C:\Users\dinor\source\repos\clrmdapp\obj\Debug\clrmdapp.csproj.CopyComplete
+C:\Users\dinor\source\repos\clrmdapp\obj\Debug\clrmdapp.exe
+C:\Users\dinor\source\repos\clrmdapp\obj\Debug\clrmdapp.pdb
